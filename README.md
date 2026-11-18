@@ -1,4 +1,4 @@
-# Reverse commuting from Toronto, and whether GO serves it
+# Evaluating whether counter-peak rail service aligns with changing commuting patterns.
 
 This project looks at Toronto residents whose usual workplace is in a suburb with a GO or UP station. I ask where that reverse market is large and where the counter-peak timetable does not get them to work in the morning and home in the evening. I then name the gap I would act on first.
 
