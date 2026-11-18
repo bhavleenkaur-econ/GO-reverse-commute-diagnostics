@@ -1,0 +1,31 @@
+{
+  "market_median": 48.0,
+  "rail_median": 52.0,
+  "rail_p40": 42.400000000000006,
+  "rail_p60": 61.599999999999994,
+  "mismatch_no_am": [
+    "Aurora",
+    "Markham",
+    "Newmarket",
+    "Richmond Hill",
+    "Vaughan",
+    "Whitchurch-Stouffville"
+  ],
+  "mismatch_clear": [],
+  "mismatch_threshold_sensitive": [],
+  "mismatch_looser_only": [],
+  "reference_n": 7,
+  "reference_rail": 84.0,
+  "reference_last_mile": 65.0,
+  "weekday": "20261118",
+  "saturday": "20261121",
+  "sunday": "20261122",
+  "n_destinations": 25,
+  "n_destination_stations": 51,
+  "n_toronto_stations": 20,
+  "unmatched_2016": [],
+  "stations_outside_study_area": [
+    "Stratford"
+  ],
+  "reverse_total_2021": 126210.0
+}

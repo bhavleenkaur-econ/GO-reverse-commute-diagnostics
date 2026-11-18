@@ -1,0 +1,15 @@
+pandas
+numpy
+geopandas
+shapely
+pyproj
+duckdb
+scipy
+matplotlib
+folium
+pyarrow
+requests
+jupyter
+nbformat
+nbclient
+pytest
